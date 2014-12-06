@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/ekg/factorial-ln.svg)](https://travis-ci.org/ekg/factorial-ln)
 
-compute log(n!) of huge numbers
+compute log(n!) of huge numbers (in node.js)
 
 ## example
 
